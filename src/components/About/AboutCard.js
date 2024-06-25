@@ -8,7 +8,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hello, I am <span className="purple">Cory Mack</span>, 
-            and I am a seasoned <span className="purple">software engineer</span> and <span className="purple">full-stack developer</span>
+            and I am a seasoned <span className="purple">software engineer</span> and <span className="purple">full-stack developer</span>&nbsp;
             with over a decade of experience in crafting high-quality, scalable, and user-centric web applications. 
             <br />
             I hold a Bachelor’s degree in Computer Science from Franklin University, 
