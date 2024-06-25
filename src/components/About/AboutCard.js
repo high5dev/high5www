@@ -17,11 +17,6 @@ function AboutCard() {
             <br /> 
             I am also proficient in various databases and front-end and back-end technologies, 
             making me a well-rounded developer capable of tackling complex challenges across the stack.
-            <br />
-            {/* Senior software Engineer who loves to transform ideas into reality using
-            code.
-            <br /> */}
-            My expertise spans both front-end and back-end development, allowing me to create seamless and efficient user experiences from the ground up.
           </p>
         </blockquote>
       </Card.Body>
