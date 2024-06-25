@@ -18,6 +18,9 @@ function MyJourneyCard() {
             <li className="about-activity">
               <ImPointRight /> <a href={"https://ipromise.vercel.app/"} target="_blank">IPROMISE</a>
             </li>
+            <li className="about-activity">
+              <ImPointRight /> <a href={"https://mm-iframe.onrender.com/"} target="_blank">MINIMALIST</a>
+            </li>            
           </ul>
         </blockquote>
       </Card.Body>
