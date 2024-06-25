@@ -19,7 +19,7 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="https://www.linkedin.com/in/eric-thomas-648313287"
+          href="https://www.linkedin.com/in/cory-mack-480231294"
           target="_blank"
           rel="noreferrer"
           className="icon-colour  home-social-icons"
@@ -39,7 +39,7 @@ function SocialMedia() {
       </li>      
       <li className="social-icons">
         <a
-          href="https://www.hackerrank.com/certificates/a18aabe3988d"
+          href="https://www.hackerrank.com/certificates/9346880ef9b9"
           target="_blank"
           rel="noreferrer"
           className="icon-colour home-social-icons"

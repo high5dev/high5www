@@ -19,11 +19,6 @@ function Home() {
                 </span>
               </h1>
 
-              <h1 className="heading-name">
-                {/* I'M */}
-                <strong className="main-name"> Cory Mack </strong>
-              </h1>
-
               <p className="heading-description blockquote" style={{ textAlign: "justify" }}>
                 A highly experienced Senior Software Developer with over 10 years of expertise in the healthcare and IT service providing industries.<br />
                 Adept at leading development teams, designing scalable software solutions, and implementing cutting-edge technologies
