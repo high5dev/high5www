@@ -7,7 +7,7 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hello, I am <span className="purple">Eric Thomas</span>, 
+            Hello, I am <span className="purple">Cory Mack</span>, 
             a passionate and experienced <span className="purple">Full Stack Web Developer</span> with over 10 years of experience in building dynamic and responsive web applications. 
             <br />
             {/* Senior software Engineer who loves to transform ideas into reality using
