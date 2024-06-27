@@ -3,6 +3,7 @@ import MYMANAGER from "./Assets/Projects/nextlevelmedia/mymanager.png";
 import iZooto from "./Assets/Projects/izooto/login.png";
 import Torontovka from "./Assets/Projects/torontovka/torontovka1.png";
 import iPromise from "./Assets/Projects/ipromise/ipromise-dark.png";
+import minimalist from "./Assets/Projects/minimalist/1_eaa31ee9-fa65-4db3-9dd5-c4d0c39c4a3e.png"
 
 
 export const PROJECTS = [
@@ -13,6 +14,14 @@ export const PROJECTS = [
     technologyUsed: "Backend development, Data mining, RESTful API, Django, Data scrpy, Ruby on Rails",
     description: "Novogene’s in-house bioinformatics pipelines that provides robust and comprehensive transcriptomic analyses of human RNA",
     url: "https://github.com/high5dev/serverless-application-model",
+  },
+  {
+    image: minimalist,
+    name: "Minimalist iframe",
+    stack: "Full-Stack",
+    technologyUsed: "Figma, MERN, Haut.ai, Redux, API, Postman, Image processing, Web-cam, DB Management",
+    description: "This is web application, mainly used to provide iframe. It is related to beminimalist.co. You can see live demo",
+    url: "https://mm-iframe.onrender.com/",
   },
   {
     image: MYMANAGER,
