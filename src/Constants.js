@@ -4,6 +4,8 @@ import iZooto from "./Assets/Projects/izooto/login.png";
 import Torontovka from "./Assets/Projects/torontovka/torontovka1.png";
 import iPromise from "./Assets/Projects/ipromise/ipromise-dark.png";
 import minimalist from "./Assets/Projects/minimalist/1_eaa31ee9-fa65-4db3-9dd5-c4d0c39c4a3e.png"
+import Javascript from "./Assets/Certificates/javascript.png";
+import SoftwareEngineer from "./Assets/Certificates/software-engineer.png"
 
 
 export const PROJECTS = [
@@ -57,6 +59,23 @@ export const PROJECTS = [
   },
 ];
 
+export const CERFITICATES = [
+  { 
+    image: Javascript, 
+    name: "JavaScript(Intermediate)", 
+    issuer: "HackerRank", issued_at: "13/05/2024", 
+    iframe: "https://www.hackerrank.com/certificates/iframe/986748ddcbda", 
+    url: "https://www.hackerrank.com/certificates/986748ddcbda" 
+  },
+  { 
+    image: SoftwareEngineer, 
+    name: "Software Engineer Intern", 
+    issuer: "HackerRank", issued_at: "13/05/2024", 
+    iframe: "https://www.hackerrank.com/certificates/iframe/9346880ef9b9", 
+    url: "https://www.hackerrank.com/certificates/9346880ef9b9" 
+  }
+]
+
 export const SKILLS = [
   { name: "HTML", initialRating: 5 },
   { name: "JavaScript", initialRating: 5 },
@@ -99,4 +118,4 @@ export const SKILLS = [
 ];
 
 export const TOOLS = ["Visual Studio Code", "Git CI", "Chrome DevTools", "Npm (Node Package Manager)", "Atom", "Sublime Text", "Postman", "Docker", "Conda"]
-export const ADDITIONALS = ["SELinux", "Firewall", "Virtualization", "OpenStack/OpenShift","Go", "Perl", "Electron.js", "R", "Trello", "ChatGPT", "Shell Scripting"]
+export const ADDITIONALS = ["SELinux", "Firewall", "Virtualization", "OpenStack/OpenShift", "Go", "Perl", "Electron.js", "R", "Trello", "ChatGPT", "Shell Scripting"]

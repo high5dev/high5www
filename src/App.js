@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Home from "./components/Home/Home";
 import About from "./components/About/About";
 import Projects from "./components/Projects/Projects";
+import Certificates from "./components/Certificates/Certificates";
 import Footer from "./components/Footer";
 import Resume from "./components/Resume/ResumeNew";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
@@ -37,6 +38,7 @@ function App() {
             <Route path="/project" component={Projects} />
             <Route path="/about" component={About} />
             <Route path="/resume" component={Resume} />
+            <Route path="/certificates" component={Certificates} />
           </Switch>
           <Footer />
         </div>
